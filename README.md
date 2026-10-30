@@ -4,7 +4,14 @@ Full-stack project separated into two dedicated directories:
 - **`backend/`** — **Node.js + Express** REST API server (`server.js`, controllers, routes, and I4C telemetry engine on port `5000`)
 - **`frontend/`** — **NPM + Vite** web application (`index.html`, `/src/style.css`, `/src/main.js`, `/src/api.js` on port `5173`)
 
-Developer: **[@shantnu108](https://github.com/shantnu108)**
+**Architects & Developers:**
+- Shantnu
+- Jatin Kumar
+- Akshat Sharma
+
+**Developer:** Shantnu K. Swami
+
+GitHub: **[@shantnu108](https://github.com/shantnu108)**
 
 ---
 
