@@ -1,0 +1,18 @@
+{
+  "name": "i4c-cybercrime-astro-frontend",
+  "version": "2.4.0",
+  "private": true,
+  "type": "module",
+  "description": "ASTRO Cosmic Editorial UI Frontend (NPM + Vite) for I4C Proactive Cybercrime Mitigation & Cash Withdrawal Prediction Framework",
+  "scripts": {
+    "dev": "vite",
+    "start": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "author": "shantnu108 (https://github.com/shantnu108)",
+  "license": "MIT",
+  "devDependencies": {
+    "vite": "^8.3.5"
+  }
+}
